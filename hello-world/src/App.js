@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={glogo} className="App-logo" alt="logo" />
         <p>
-          Before choose the subjuct, It is 
+          Before choose the subjuct, It is none.
         </p>
         <a
           className="App-link"
